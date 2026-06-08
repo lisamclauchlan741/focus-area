@@ -1,0 +1,22 @@
+{
+  "name": "focus-area",
+  "version": "1.0.0",
+  "description": "this is a readme file for focus areas this is for focus area one",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisamclauchlan741/focus-area.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisamclauchlan741/focus-area/issues"
+  },
+  "homepage": "https://github.com/lisamclauchlan741/focus-area#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.2"
+  }
+}
